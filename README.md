@@ -1,6 +1,8 @@
 # cnot_gkp
 simulating a CNOT gate between GKP qubits in a modular arquitecture
 
+Required software: Strawberry Fields (from Xanadu)
+
 folder name (last update)<br />
 description<br />
 
