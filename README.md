@@ -10,7 +10,7 @@ description
 
 
 evaluate_in_TACC_cutoff=40 (Jul 2022)
--workflow to compute the fidelity of output states from the teleported CNOT circuit and ideal CNOT circuit
+-workflow to compute the fidelity of output states from the teleported CNOT circuit and ideal CNOT circuit<br />
 -TACC refers to UT Austin's supercomputer 
 -a fixed cutoff of 40 is used, only one varying parameter (squeezing parameter) is explored
 -code is in main_programs folder
