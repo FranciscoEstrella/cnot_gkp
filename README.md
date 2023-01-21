@@ -1,5 +1,5 @@
 # cnot_gkp
-simulating a CNOT gate between GKP qubits in a modular arquitecture
+Simulation of a teleported Controlled-NOT gate between GKP (Gottesman-Kitaev-Preskill) qubits for a modular arquitecture
 
 Required software: Strawberry Fields (from Xanadu)
 
