@@ -2,7 +2,8 @@
 Simulation of a teleported Controlled-NOT gate between GKP (Gottesman-Kitaev-Preskill) qubits for a modular superconducting arquitecture (https://www.nature.com/articles/s41586-018-0470-y)
 
 Required software:<br />
--Strawberry Fields (from Xanadu)
+-Python3.7 (or grater)<br />
+-Strawberry Fields (from Xanadu)<br />
 
 1-trace_vs_cutoffs<br />
 -finding minimum cutoff for which 1-trace of output density matrices is less than 1*10^-3<br /> 
