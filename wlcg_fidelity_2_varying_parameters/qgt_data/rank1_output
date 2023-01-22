@@ -1,0 +1,70 @@
+process 1 has runs [2 3]
+epsilon paramater: 0.115
+two-mode squeezing parameter: -0.1
+circuit run number: 2
+Measurement results (in X and P, respectively): [[-0.33808613 -3.88736865]]
+vector of means fidelity: 0.8668753674849979
+covariance matrices fidelity: 0.8015326694991352
+run time for circuit run (in seconds): 32.493924259997584
+circuit run number: 3
+Measurement results (in X and P, respectively): [[-3.590868   -0.08387661]]
+vector of means fidelity: 0.8699602786722431
+covariance matrices fidelity: 0.8015326694991352
+run time for circuit run (in seconds): 33.98777546099882
+two-mode squeezing parameter: -0.2
+circuit run number: 2
+Measurement results (in X and P, respectively): [[-1.25338188  1.28008524]]
+vector of means fidelity: 0.9278330871076603
+covariance matrices fidelity: 0.8161850470839721
+run time for circuit run (in seconds): 31.77338234400304
+circuit run number: 3
+Measurement results (in X and P, respectively): [[0.23690732 5.19672669]]
+vector of means fidelity: 0.9064346471600617
+covariance matrices fidelity: 0.8161850470839721
+run time for circuit run (in seconds): 32.54246172100102
+epsilon paramater: 0.12000000000000001
+two-mode squeezing parameter: -0.1
+circuit run number: 2
+Measurement results (in X and P, respectively): [[0.0172747  3.58322957]]
+vector of means fidelity: 0.12010470419730698
+covariance matrices fidelity: 0.8029343673629779
+run time for circuit run (in seconds): 32.046986522000225
+circuit run number: 3
+Measurement results (in X and P, respectively): [[ 1.16803879 -1.44145433]]
+vector of means fidelity: 0.1222441781051599
+covariance matrices fidelity: 0.8029343673615317
+run time for circuit run (in seconds): 34.87481370199748
+two-mode squeezing parameter: -0.2
+circuit run number: 2
+Measurement results (in X and P, respectively): [[-3.83734814  1.2984645 ]]
+vector of means fidelity: 0.14381452574528136
+covariance matrices fidelity: 0.8180114405569632
+run time for circuit run (in seconds): 33.224865447999036
+circuit run number: 3
+Measurement results (in X and P, respectively): [[3.00519714 0.36666877]]
+vector of means fidelity: 0.13557566132546947
+covariance matrices fidelity: 0.8180114405600468
+run time for circuit run (in seconds): 32.14894825599913
+epsilon paramater: 0.125
+two-mode squeezing parameter: -0.1
+circuit run number: 2
+Measurement results (in X and P, respectively): [[ 3.97440162 -1.52364038]]
+vector of means fidelity: 0.860201288671054
+covariance matrices fidelity: 0.8042988460206526
+run time for circuit run (in seconds): 27.615054539000994
+circuit run number: 3
+Measurement results (in X and P, respectively): [[-3.75652264  0.14853782]]
+vector of means fidelity: 0.8660070761592547
+covariance matrices fidelity: 0.8042988460206526
+run time for circuit run (in seconds): 28.775361200998304
+two-mode squeezing parameter: -0.2
+circuit run number: 2
+Measurement results (in X and P, respectively): [[ 0.91932635 -1.09975886]]
+vector of means fidelity: 0.9282174606931755
+covariance matrices fidelity: 0.819787717495711
+run time for circuit run (in seconds): 28.87293554200005
+circuit run number: 3
+Measurement results (in X and P, respectively): [[-0.25799898  0.6995316 ]]
+vector of means fidelity: 0.9297679462081127
+covariance matrices fidelity: 0.819787717495711
+run time for circuit run (in seconds): 30.614029346997995
