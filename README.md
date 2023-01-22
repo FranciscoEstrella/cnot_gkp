@@ -1,7 +1,7 @@
 # cnot_gkp
 Simulation of a teleported Controlled-NOT gate between GKP (Gottesman-Kitaev-Preskill) qubits for a modular superconducting arquitecture (https://www.nature.com/articles/s41586-018-0470-y)
 
-Required software: 
+Required software:<br />
 -Strawberry Fields (from Xanadu)
 
 folder name (last update)<br />
