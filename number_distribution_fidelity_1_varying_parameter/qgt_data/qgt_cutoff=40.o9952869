@@ -1,0 +1,12 @@
+/work2/06076/estrella/stampede2/qgt_cutoff=40
+dom jul 10 23:13:21 CDT 2022
+TACC:  Starting up job 9952869 
+TACC:  Starting parallel tasks... 
+[0] MPI startup(): I_MPI_OFA_ADAPTER_NAME variable has been removed from the product, its value is ignored
+
+[0] MPI startup(): I_MPI_EXTRA_FILESYSTEM_LIST environment variable is not supported.
+[0] MPI startup(): Similar variables:
+	 I_MPI_EXTRA_FILESYSTEM
+	 I_MPI_EXTRA_FILESYSTEM_FORCE
+[0] MPI startup(): To check the list of supported variables, use the impi_info utility or refer to https://software.intel.com/en-us/mpi-library/documentation/get-started.
+TACC:  Shutdown complete. Exiting. 
