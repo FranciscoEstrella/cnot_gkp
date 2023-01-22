@@ -4,9 +4,6 @@ Simulation of a teleported Controlled-NOT gate between GKP (Gottesman-Kitaev-Pre
 Required software:<br />
 -Strawberry Fields (from Xanadu)
 
-folder name (last update)<br />
-description<br />
-
 1-trace_vs_cutoffs<br />
 -finding minimum cutoff for which 1-trace of output density matrices is less than 1*10^-3<br /> 
 -negative and large probabilities (greater than 1) are found when using a cutoff larger than 40 in Strawberry Fields<br />
