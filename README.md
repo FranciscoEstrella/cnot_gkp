@@ -7,37 +7,30 @@ Required software:
 folder name (last update)<br />
 description<br />
 
-bosonic_fidelity_1_variable (Sep 2022)<br />
--workflow to compute the fidelity of output states from the teleported CNOT circuit and ideal CNOT circuit<br />
--fidelity is based on taking inner products of weighted linear combination of gaussians<br />
--only one varying parameter (squeezing parameter) is explored<br />
-
-
-bosonic_fidelity_2_variables (Sep 2022)<br />
--workflow to compute the fidelity of output states from the teleported CNOT circuit and ideal CNOT circuit<br />
--fidelity is based on taking inner products of weighted linear combinations of gaussians<br />
--two varying parameters (squeezing parameter and epsilon) are explored<br />
-
-1-trace_vs_cutoff (May 2022)<br />
--finding minimum cutoff for which 1-trace of output density matrices is less than 1*10^-3 .<br /> 
+1-trace_vs_cutoffs<br />
+-finding minimum cutoff for which 1-trace of output density matrices is less than 1*10^-3<br /> 
 -negative and large probabilities (greater than 1) are found when using a cutoff larger than 40 in Strawberry Fields<br />
 
-
-evaluate_in_TACC_cutoff=40 (Jul 2022)<br />
--workflow to compute the fidelity of output states from the teleported CNOT circuit and ideal CNOT circuit<br />
--TACC refers to UT Austin's supercomputer<br /> 
--a fixed cutoff of 40 is used, only one varying parameter (two-mode squeezing parameter) is explored<br />
--code is in main_programs folder<br />
+wlcg_fidelity_1_varying_parameter<br />
+-workflow to compute fidelity of output states between teleported CNOT circuit and ideal CNOT circuit<br />
+-fidelity is based on inner products of weighted linear combination of gaussians (wlcg) <br />
+-only one parameter varies in the computation of fidelity (two-mode squeezing parameter)<br />
 
 
-evaluate_in_TACC_cutoff=40_AD (Jul 2022)<br />
--workflow to compute the fidelity of output states from the teleported CNOT circuit and ideal CNOT circuit<br />
--TACC refers to UT Austin's supercomputer <br />
--a fixed cutoff of 40 is used, only one varying parameter (two-mode squeezing parameter) is explored<br />
--only difference is that here amplitude damping (AD) is incorporated<br />
--code is in main_programs folder<br />
+wlcg_fidelity_2_varying_parameters<br />
+-workflow to compute fidelity of output states between teleported CNOT circuit and ideal CNOT circuit<br />
+-fidelity is based on inner products of weighted linear combination of gaussians (wlcg)<br />
+-two parameter vary in the computation of fidelity (two-mode squeezing parameter, GKP epsilon)<br />
 
 
-report and presentation (December 2021)<br />
--report used as a deliverable for an experimental physics course<br />
--presentation targeted for quantum circuit research group at UT Austin<br />
+number_distribution_fidelity_1_varying_parameter<br />
+-workflow to compute fidelity of output states between teleported CNOT circuit and ideal CNOT circuit<br />
+-a cutoff of 40 is used, and only one varying parameter is used (two-mode squeezing parameter)<br />
+-main_programs directory contains essential code<br />
+-TACC is UT Austin's cluster computer<br /> 
+
+
+deliverables<br />
+-taccster poster was used in TACC high performance computing symposium (September 2022)<br />
+-Teleported CNOT Gate between GKP Qubits-presentation was used to present an update of project to quantum-circuits research group<br />
+-Teleported CNOT Gate between GKP Qubits-report was used to present an update of project<br />
